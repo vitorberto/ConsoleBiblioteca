@@ -1,0 +1,14 @@
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\bin\Debug\netcoreapp3.1\ConsoleBiblioteca.exe
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\bin\Debug\netcoreapp3.1\ConsoleBiblioteca.deps.json
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\bin\Debug\netcoreapp3.1\ConsoleBiblioteca.runtimeconfig.json
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\bin\Debug\netcoreapp3.1\ConsoleBiblioteca.runtimeconfig.dev.json
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\bin\Debug\netcoreapp3.1\ConsoleBiblioteca.dll
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\bin\Debug\netcoreapp3.1\ConsoleBiblioteca.pdb
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\obj\Debug\netcoreapp3.1\ConsoleBiblioteca.csproj.AssemblyReference.cache
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\obj\Debug\netcoreapp3.1\ConsoleBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\obj\Debug\netcoreapp3.1\ConsoleBiblioteca.AssemblyInfoInputs.cache
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\obj\Debug\netcoreapp3.1\ConsoleBiblioteca.AssemblyInfo.cs
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\obj\Debug\netcoreapp3.1\ConsoleBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\obj\Debug\netcoreapp3.1\ConsoleBiblioteca.dll
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\obj\Debug\netcoreapp3.1\ConsoleBiblioteca.pdb
+C:\Users\vitub\source\repos\ConsoleBiblioteca\ConsoleBiblioteca\obj\Debug\netcoreapp3.1\ConsoleBiblioteca.genruntimeconfig.cache
